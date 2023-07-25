@@ -6,9 +6,9 @@ int main() {
     printf( "Enter your name: " ) 
     scanf( "%s", Name ) ;
     printf( "Enter your age: " ) ;
-    scanf( "%d", Age ) ;
+    scanf( "%d", &Age ) ;
     print( "- - - - - -\n" ) ;
     printf( "Hello %s \n", ___ ) ; //TODO: #14 Say hello to user.
     printf( "Age = %d\n", ___ ) ; //TODO: #15 display user their age number plus 1.
-    
+    printf()
 }//end main function
